@@ -9,7 +9,7 @@
 * Save () to save all the student details. <br>
 * Remove () to delete a student’s information.  <br>
 
-<img src='https://github.com/AKNiloy/Student-Management-Using-Python/blob/main/outout%20images/out%201.PNG' width="300px" height="auto"> <br>
-<img src='https://github.com/AKNiloy/Student-Management-Using-Python/blob/main/outout%20images/out%202.PNG' width="300px" height="auto">
+<img src='https://github.com/AKNiloy/Student-Management-Using-Python/blob/main/outout%20images/out%201.PNG' width="500px" height="auto"> 
+<img src='https://github.com/AKNiloy/Student-Management-Using-Python/blob/main/outout%20images/out%202.PNG' width="500px" height="auto">
 
 
